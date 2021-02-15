@@ -1,0 +1,14 @@
+ABA/Ara-Bul-Al (Getir Örnek Alınarak Alışveriş Sitesi Tasarlandı.)(Html+Css+JavaScript)
+
+-Projeye bir isim bulup amblem ve telefon içerisinde reklam tarzı iş yapıldı.
+-Container içerisine logo ve menu kısmı yerleştirildi . Menü üzerindeki elemanlara gelindiğinde renkleri 
+değişiyor. Logo üzerine gelindiğinde resmin rengi değişiyor.
+-Banner kısmında proje kısaca tanıtıldı ve telefon içerisinde reklam katıldı. Reklamın üzerine gelindiğinde 
+resim büyüyor.
+-Popüler ürünler kısmında rastgele ürün resimleri yerleştirildi stil verildi. Üzerine gelindiğinde renk 
+değişimi sağlandı. Alt kısımlarında hepsi tanıtıldı ve özellik belirtildi.
+-Ürünler kısmında rastgele ürün yerleştirildi ve tanıtıldı.
+-İletişim kısmında bir contact kısmı oluşturulup isim, email ve mesaj istendi.
+-İletişim kısmının en altında facebook, twitter  ve instagram logoları kullanıldı.
+-Sayfada aşağı inilince en üste çıkan buton eklendi.
+
